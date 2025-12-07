@@ -1,0 +1,17 @@
+[project]
+name = "fastapi_inventory"
+version = "0.1.0"
+description = "FastAPI tutorial"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.124.0",
+    "httpx>=0.28.1",
+    "requests>=2.32.5",
+    "uvicorn>=0.38.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.1",
+]
