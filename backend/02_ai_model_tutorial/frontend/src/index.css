@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+.card {
+  @apply bg-white rounded-xl shadow-sm border border-slate-100;
+}
+
+.btn {
+  @apply inline-flex items-center justify-center gap-2 px-4 py-2 rounded-lg font-semibold transition-colors;
+}
+
+.btn-primary {
+  @apply bg-blue-600 text-white hover:bg-blue-700 disabled:opacity-60 disabled:cursor-not-allowed;
+}
+
+.btn-ghost {
+  @apply text-slate-600 hover:text-slate-800 hover:bg-slate-100;
+}
+
+.badge {
+  @apply inline-flex items-center gap-1 rounded-full px-2 py-1 text-xs font-medium bg-slate-100 text-slate-700;
+}
+
+textarea {
+  font-family: inherit;
+}
