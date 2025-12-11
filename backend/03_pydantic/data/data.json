@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Zero to One",
+        "subtitle": "Notes on Startups, or How to Build the Future",
+        "author": "Peter Thiel",
+        "publisher": "Crown Currency",
+        "isbn_10": "0307887898",
+        "isbn_13": "978-0307887894",
+        "price": 16.99
+    },
+    {
+        "title": "Atomic Habits",
+        "subtitle": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "author": "James Clear",
+        "publisher": "Avery",
+        "isbn_10": "0735211299",
+        "isbn_13": "978-0735211292",
+        "price": 14.89
+    },
+    {
+        "title": "Deep Work",
+        "subtitle": "Rules for Focused Success in a Distracted World",
+        "author": "Cal Newport",
+        "publisher": "Grand Central Publishing",
+        "isbn_10": "1455586692",
+        "isbn_13": "978-1455586691",
+        "price": 18.29
+    },
+    {
+        "title": "The Lean Startup",
+        "subtitle": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "author": "Eric Ries",
+        "publisher": "Crown Currency",
+        "isbn_10": "0307887898",
+        "isbn_13": "978-0307887894",
+        "price": 17.50
+    },
+    {
+        "title": "Thinking, Fast and Slow",
+        "subtitle": "",
+        "author": "Daniel Kahneman",
+        "publisher": "Farrar, Straus and Giroux",
+        "isbn_10": "0374533555",
+        "isbn_13": "978-0374533557",
+        "price": 22.00
+    },
+    {
+        "title": "Sapiens",
+        "subtitle": "A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "publisher": "Harper",
+        "isbn_10": "0062316095",
+        "isbn_13": "978-0062316097",
+        "price": 18.99
+    },
+    {
+        "title": "Start with Why",
+        "subtitle": "How Great Leaders Inspire Everyone to Take Action",
+        "author": "Simon Sinek",
+        "publisher": "Portfolio",
+        "isbn_10": "1591846447",
+        "isbn_13": "978-1591846444",
+        "price": 16.00
+    },
+    {
+        "title": "Good to Great",
+        "subtitle": "Why Some Companies Make the Leap... and Others Don't",
+        "author": "Jim Collins",
+        "publisher": "Harper Business",
+        "isbn_10": "0066620996",
+        "isbn_13": "978-0066620992",
+        "price": 17.00
+    },
+    {
+        "title": "The Psychology of Money",
+        "subtitle": "Timeless lessons on wealth, greed, and happiness",
+        "author": "Morgan Housel",
+        "publisher": "Harriman House",
+        "isbn_10": "0857197681",
+        "isbn_13": "978-0857197689",
+        "price": 16.49
+    },
+    {
+        "title": "Extreme Ownership",
+        "subtitle": "How U.S. Navy SEALs Lead and Win",
+        "author": "Jocko Willink",
+        "publisher": "St. Martin's Press",
+        "isbn_10": "1250183863",
+        "isbn_13": "978-1250183866",
+        "price": 20.99
+    }
+]
