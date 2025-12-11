@@ -9,7 +9,7 @@ class EventType(StrEnum):
 
 
 @dataclass(frozen=True)
-class Event:
+class Event[T = str]:
     type: EventType
-    data: str
+    data: T
     timestamp: datetime = field(default_factory=datetime.now)

@@ -1,12 +1,12 @@
 from .event import Event
 
 
-class EventStore:
+class EventStore[T]:
     def __init__(self) -> None:
-        self._events: list[Event] = []
+        self._events: list[Event[T]] = []
 
-    def append(self, event: Event) -> None:
+    def append(self, event: Event[T]) -> None:
         self._events.append(event)
 
-    def get_all_events(self) -> list[Event]:
+    def get_all_events(self) -> list[Event[T]]:
         return list(self._events)
